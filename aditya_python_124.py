@@ -17,3 +17,4 @@ a=7
 b=9
 result=a%b
 print(result)
+#This is a python code
